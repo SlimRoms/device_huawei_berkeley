@@ -20,9 +20,9 @@ $(call inherit-product-if-exists, vendor/huawei/berkeley/berkeley-vendor.mk)
 DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay
 
-ifeq ($(TARGET_PRODUCT),lineage_berkeley)
+ifeq ($(TARGET_PRODUCT),slim_berkeley)
 DEVICE_PACKAGE_OVERLAYS += \
-    $(LOCAL_PATH)/overlay-lineage
+    $(LOCAL_PATH)/overlay-slim
 endif
 
 # Boot animation
