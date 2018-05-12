@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "0c5f0dbe_857018a7",
+        "filename": "overlay-slim/frameworks/slim/res/res/xml/available_keys.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 56,
+      "author": {
+        "id": 1000043
+      },
+      "writtenOn": "2018-05-12T00:49:28Z",
+      "side": 1,
+      "message": "**\"",
+      "range": {
+        "startLine": 56,
+        "startChar": 38,
+        "endLine": 56,
+        "endChar": 40
+      },
+      "revId": "df35bcf87eb41608fbf4823cad5c933c6b33291f",
+      "serverId": "f8201d64-d729-4630-b91d-5f8be02869f0",
+      "unresolved": true
+    }
+  ]
+}
